@@ -1,4 +1,4 @@
-[Link to Github](https://martincespedes.github.io/HTML_Display/)
+[Link to Github](https://github.com/MartinCespedes/HTML_Display)
 
 # 🐛 List Items and Boxes Are Not Displaying Correctly
 
