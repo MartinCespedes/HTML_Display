@@ -1,3 +1,5 @@
+## HTML Display
+
 [Link to Github](https://github.com/MartinCespedes/HTML_Display)
 
 ## Contents
@@ -18,8 +20,7 @@
 
 ## Description
 
-    ```md
-
+```md
 🐛 List Items and Boxes Are Not Displaying Correctly
 
 Work with a partner to resolve the following issues:
@@ -28,18 +29,17 @@ Users should be able to see a horizontal navigation bar with three list items si
 Users should be able to see three boxes.
 
 Users should be able to see the boxes centered and stacked on top of each other.
-
-````
+```
 
 ## Expected Behavior
-```md
 
+```md
 All three list items in the navigation bar should display inline.
 
 All three boxes should be visible.
 
 Each box should appear centered and on its own line.
-````
+```
 
 ## Actual Behavior
 
@@ -65,13 +65,11 @@ Which `display` value hides an element?
 
 ## 🏆 Bonus
 
-```md
 If you have completed this activity, work through the following challenge with your partner to further your knowledge:
 
 What is the CSS `visibility` property? How is it different from the `display` property?
 
 Use [Google](https://www.google.com) or another search engine to research this.
-```
 
 ---
 
